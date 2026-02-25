@@ -1,8 +1,4 @@
 Present
 Hu Bo
-<<<<<<< HEAD
 Law Zi Ying
-=======
 Huang Yixuan
-git
->>>>>>> b646ce86ad6d705eb4ae42b0558f63386d173f3e
